@@ -1,4 +1,4 @@
-# JOBSHEET-1-WEB-LANJUT
+# JOBSHEET-02-WEB-LANJUT
 
 ## NAMA : Hanief Mochsin
 
@@ -10,8 +10,16 @@
 
 ![alt text](image.png)
 
--"Route::get('/hello')" untuk menampilkan string hello ke browser dalam bentuk url bagian akhir
+-"Route::get('/hello')" untuk menampilkan string hello ke browser dalam bentuk URL bagian akhir.
 
 ![alt text](<gambar/Screenshot 2024-02-24 024255.png>)
 
--ketika "string /hello diubah menjadi /world dan nilai yang berada didalam function juga diubah" maka url nya juga harus sesuai dengan pengubahan yang telah terjadi dan hasilnya akan sesuai apa yang telah kita ubah 
+-Kode tersebut mendefinisikan sebuah route yang mengembalikan string World ketika user mengunjungi URL /world dengan method GET sama seperti URL /hello sebelumnya.
+
+![alt text](<gambar/Screenshot 2024-02-24 034111.png>)
+
+-route URL "/" untuk menampilkan string "Selamat Datang". 
+
+![alt text](image-1.png)
+
+-route URL "/About" untuk menampilkan string "NIM dan Nama saya". 
