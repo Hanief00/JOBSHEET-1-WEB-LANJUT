@@ -99,3 +99,34 @@
 ![alt text](image-18.png)
 
 -menambahkan occupation pada view, tidak jauh beda dengan sebelumnya hanya saja menambahkan satu variabel untuk diteruskan ke view
+
+##TUGAS PRAKTIKUM POS
+
+-home:
+![alt text](image-19.png)
+
+-kategory :
+
+-1.babykid:
+
+![alt text](image-20.png)
+
+-2.foodbeverage:
+
+![alt text](image-21.png)
+
+-3.homecare:
+
+![alt text](image-22.png)
+
+-4.beautyhealth:
+
+![alt text](image-23.png)
+
+-halaman user:
+
+![alt text](image-24.png)
+
+-halaman penjualan:
+
+![alt text](image-25.png)
